@@ -1,1 +1,1 @@
-~ assignments from ASC ~
+~ assignments from computer systems architecture ~
